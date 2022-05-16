@@ -1,2 +1,4 @@
 # ManuelBaezaRomero
-Ejercicios Git, Manuel Baeza Romero
+Ejercicios Git
+Es un ejemplo Hola Mundo
+Autor: Manuel Baeza Romero
