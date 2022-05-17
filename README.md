@@ -1,5 +1,5 @@
 # ManuelBaezaRomero
-Ejercicios Git
-Es un ejemplo Hola Mundo
-Autor: Manuel Baeza Romero
-Colaborador: Manuel Baeza Romero
+Es un proyecto que pide un nombre y el programa te saluda
+
+Requisitos de instalacion: 
+
